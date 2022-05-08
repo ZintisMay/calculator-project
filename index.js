@@ -1,0 +1,5 @@
+console.log("JS")
+
+// MAKE THE CALCULATOR WORK
+
+// DONT USE THE EVAL METHOD
